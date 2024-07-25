@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "960605271601",
+    "firebase_url": "https://q-cut-f7cb1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "q-cut-f7cb1",
+    "storage_bucket": "q-cut-f7cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960605271601:android:daec41e338da1400920710",
+        "android_client_info": {
+          "package_name": "com.codeforany.food_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_gZV1pn7kQ9rgQL7kNUcKsYJSHXa644c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960605271601:android:79832c6f673c230f920710",
+        "android_client_info": {
+          "package_name": "com.rset.qcut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_gZV1pn7kQ9rgQL7kNUcKsYJSHXa644c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
