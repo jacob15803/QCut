@@ -37,5 +37,5 @@ Firebase Storage: Storing images for menu items.
 Firebase Cloud Functions: Handling backend logic.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/jacob15803/QCut/blob/main/assets/img/download.jpeg))
 
