@@ -35,3 +35,6 @@ Authentication: Secure user login and registration.
 Firestore Database: Storing user data, menu items, and order details.
 Firebase Storage: Storing images for menu items.
 Firebase Cloud Functions: Handling backend logic.
+
+## Screenshots
+
